@@ -1,2 +1,1 @@
-# Sentiment-Analysis-using-Transfer-Learning
-Sentiment Analysis using Transfer Learning
+In this project, we will perform the sentiment analysis of Amazon Fine Food Reviews dataset by using transfer learning. We will be using the pre-trained BERT uncased model from TensorFlow Hub. It uses 12 hidden layers or transformer blocks, a hidden size of 768 and 12 attention heads. The data for this project can be downloaded from this link https://www.kaggle.com/snap/amazon-fine-food-reviews/data
